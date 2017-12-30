@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67fc34e2-bd8d-4ce1-bb6f-c44b939d30d7" name="Default" comment="" />
+    <list default="true" id="67fc34e2-bd8d-4ce1-bb6f-c44b939d30d7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/less/agency.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/scss/agency.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/index.html" afterPath="$PROJECT_DIR$/html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/index.html" afterPath="$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/index.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +24,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ohio/county/franklin/city/columbus/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
+            <state relative-caret-position="0">
               <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
               <folding>
                 <element signature="e#6#88#0#PHP" expanded="true" />
@@ -26,7 +36,7 @@
       <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
+            <state relative-caret-position="4554">
               <caret line="253" column="28" lean-forward="false" selection-start-line="253" selection-start-column="28" selection-end-line="253" selection-end-column="28" />
               <folding />
             </state>
@@ -43,11 +53,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/index.html">
+      <file leaf-file-name="agency.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/js/agency.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="81" column="67" lean-forward="true" selection-start-line="81" selection-start-column="67" selection-end-line="81" selection-end-column="67" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-162">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="agency.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/css/agency.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -92,6 +122,7 @@
         <option value="$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/css/agency.min.css" />
         <option value="$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/css/agency.css" />
         <option value="$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/index.html" />
+        <option value="$PROJECT_DIR$/html/css/agency.css" />
       </list>
     </option>
   </component>
@@ -105,7 +136,7 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1386" />
@@ -130,7 +161,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,40 +177,13 @@
               <item name="PoliceReportData" type="b2602c69:ProjectViewProjectNode" />
               <item name="PoliceReportData" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="startbootstrap-agency-3.3.7-1" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="PoliceReportData" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PoliceReportData" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="startbootstrap-agency-3.3.7-1" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="PoliceReportData" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PoliceReportData" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="startbootstrap-agency-3.3.7-1" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="PoliceReportData" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PoliceReportData" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="startbootstrap-agency-3.3.7-1" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="less" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="PoliceReportData" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PoliceReportData" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="html" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="startbootstrap-agency-3.3.7-1" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,13 +192,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\mikestratton\PoliceReportData\html" />
+      <recent name="C:\xampp\htdocs\mikestratton\PoliceReportData\html\css" />
+      <recent name="C:\xampp\htdocs\mikestratton\PoliceReportData\html\images" />
+      <recent name="C:\xampp\htdocs\mikestratton\PoliceReportData\html\js" />
+      <recent name="C:\xampp-php7\htdocs\mikestratton\police-report-data\pdfparser" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\mikestratton\PoliceReportData\html\startbootstrap-agency-3.3.7-1\img" />
       <recent name="C:\xampp\htdocs\mikestratton\PoliceReportData\html" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp-php7\htdocs\mikestratton\police-report-data\pdfparser" />
-      <recent name="C:\xampp-php7\htdocs\mikestratton\police-report-data\tc-lib-pdf\example" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -292,12 +298,13 @@
       <option name="presentableId" value="Default" />
       <updated>1514437567040</updated>
       <workItem from="1514437572010" duration="7683000" />
-      <workItem from="1514584378720" duration="4825000" />
+      <workItem from="1514584378720" duration="5498000" />
+      <workItem from="1514593916864" duration="972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12508000" />
+    <option name="totallyTimeSpent" value="14153000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,18 +316,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25414783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25869894" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297546" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32822084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32686085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -328,6 +334,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34789643" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -344,11 +351,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ohio/county/franklin/city/columbus/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="450">
+          <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
           <folding>
             <element signature="e#6#88#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4554">
+          <caret line="253" column="28" lean-forward="false" selection-start-line="253" selection-start-column="28" selection-end-line="253" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -357,6 +372,33 @@
         <state relative-caret-position="234">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="81" column="67" lean-forward="true" selection-start-line="81" selection-start-column="67" selection-end-line="81" selection-end-column="67" />
+          <folding>
+            <marker date="1514594163643" expanded="false" signature="4289:6330" ph="..." />
+            <marker date="1514594163643" expanded="false" signature="6434:11244" ph="..." />
+            <marker date="1514594163643" expanded="false" signature="11313:16077" ph="..." />
+            <marker date="1514594163643" expanded="false" signature="16166:19235" ph="..." />
+            <marker date="1514594163643" expanded="false" signature="19307:20350" ph="..." />
+            <marker date="1514594163643" expanded="false" signature="20423:22984" ph="..." />
+            <marker date="1514594163643" expanded="false" signature="23736:24017" ph="..." />
+            <marker date="1514594163643" expanded="false" signature="26716:28414" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ohio/county/franklin/city/columbus/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -379,19 +421,11 @@
     <entry file="file://$PROJECT_DIR$/php-pdf-parser/xmp.php" />
     <entry file="file://$PROJECT_DIR$/pdfparser/extract-text.php" />
     <entry file="file://$PROJECT_DIR$/pdfparser/extract-text2.php" />
-    <entry file="file://$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/css/agency.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="4" column="4001" lean-forward="true" selection-start-line="4" selection-start-column="4001" selection-end-line="4" selection-end-column="4001" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/css/agency.min.css" />
     <entry file="file://$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/scss/agency.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="169" column="30" lean-forward="false" selection-start-line="169" selection-start-column="30" selection-end-line="169" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -399,21 +433,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="176" column="17" lean-forward="true" selection-start-line="176" selection-start-column="17" selection-end-line="176" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ohio/county/franklin/city/columbus/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
+        <state relative-caret-position="0">
           <caret line="30" column="38" lean-forward="false" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
           <folding>
             <element signature="e#6#88#0#PHP" expanded="true" />
@@ -423,16 +448,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="4554">
           <caret line="253" column="28" lean-forward="false" selection-start-line="253" selection-start-column="28" selection-end-line="253" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/js/agency.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/startbootstrap-agency-3.3.7-1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="81" column="67" lean-forward="true" selection-start-line="81" selection-start-column="67" selection-end-line="81" selection-end-column="67" />
+        <state relative-caret-position="270">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1514594163643" expanded="false" signature="4289:6330" ph="..." />
+            <marker date="1514594163643" expanded="false" signature="6434:11244" ph="..." />
+            <marker date="1514594163643" expanded="false" signature="11313:16077" ph="..." />
+            <marker date="1514594163643" expanded="false" signature="16166:19235" ph="..." />
+            <marker date="1514594163643" expanded="false" signature="19307:20350" ph="..." />
+            <marker date="1514594163643" expanded="false" signature="20423:22984" ph="..." />
+            <marker date="1514594163643" expanded="false" signature="23736:24017" ph="..." />
+            <marker date="1514594163643" expanded="false" signature="26716:28414" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ohio/county/franklin/city/columbus/scraper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
       </provider>
