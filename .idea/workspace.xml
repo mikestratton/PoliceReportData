@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67fc34e2-bd8d-4ce1-bb6f-c44b939d30d7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/scraper.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/img/logo_web2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ohio/county/franklin/city/columbus/scraper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pdfparser" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/html/img/logo_web3.png" afterPath="$PROJECT_DIR$/html/img/logo_web.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ohio/county/franklin/city/columbus/index.php" afterPath="$PROJECT_DIR$/html/ohio/county/franklin/city/columbus/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/test.pdf" afterPath="$PROJECT_DIR$/html/test.pdf" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html/img/logo_web.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/index.html" afterPath="$PROJECT_DIR$/html/index.html" />
     </list>
@@ -42,17 +36,27 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="scraper-output.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/scraper-output.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="283" column="50" lean-forward="false" selection-start-line="283" selection-start-column="50" selection-end-line="283" selection-end-column="50" />
+            <state relative-caret-position="3064">
+              <caret line="272" column="56" lean-forward="false" selection-start-line="272" selection-start-column="56" selection-end-line="272" selection-end-column="56" />
               <folding>
                 <element signature="e#6463#11326#0" expanded="false" />
-                <element signature="e#15788#18908#0" expanded="false" />
-                <element signature="e#18941#20014#0" expanded="false" />
-                <element signature="e#20049#22639#0" expanded="false" />
-                <element signature="e#22815#22821#0" expanded="true" />
+                <element signature="e#15795#18915#0" expanded="false" />
+                <element signature="e#18948#20021#0" expanded="false" />
+                <element signature="e#20056#22646#0" expanded="false" />
+                <element signature="e#22822#22828#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -112,6 +116,7 @@
         <option value="$PROJECT_DIR$/html/.gitignore" />
         <option value="$PROJECT_DIR$/html/css/agency.css" />
         <option value="$PROJECT_DIR$/html/ohio/county/franklin/city/columbus/scraper.php" />
+        <option value="$PROJECT_DIR$/html/scraper-output.php" />
         <option value="$PROJECT_DIR$/html/index.html" />
       </list>
     </option>
@@ -192,23 +197,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ohio" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="county" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="franklin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="city" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="columbus" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -333,12 +322,12 @@
       <workItem from="1514437572010" duration="7683000" />
       <workItem from="1514584378720" duration="5498000" />
       <workItem from="1514593916864" duration="972000" />
-      <workItem from="1514749182927" duration="10531000" />
+      <workItem from="1514749182927" duration="11766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24684000" />
+    <option name="totallyTimeSpent" value="25919000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,9 +340,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1034" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26172706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26172706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -423,10 +411,10 @@
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="e#6463#11326#0" expanded="false" />
-            <element signature="e#15788#18908#0" expanded="false" />
-            <element signature="e#18941#20014#0" expanded="false" />
-            <element signature="e#20049#22639#0" expanded="false" />
-            <element signature="e#22815#22821#0" expanded="true" />
+            <element signature="e#15795#18915#0" expanded="false" />
+            <element signature="e#18948#20021#0" expanded="false" />
+            <element signature="e#20056#22646#0" expanded="false" />
+            <element signature="e#22822#22828#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -597,14 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/scraper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/ohio/county/franklin/city/columbus/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="539">
@@ -613,16 +593,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html/scraper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/scraper-output.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/img/logo_web.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="283" column="50" lean-forward="false" selection-start-line="283" selection-start-column="50" selection-end-line="283" selection-end-column="50" />
+        <state relative-caret-position="3064">
+          <caret line="272" column="56" lean-forward="false" selection-start-line="272" selection-start-column="56" selection-end-line="272" selection-end-column="56" />
           <folding>
             <element signature="e#6463#11326#0" expanded="false" />
-            <element signature="e#15788#18908#0" expanded="false" />
-            <element signature="e#18941#20014#0" expanded="false" />
-            <element signature="e#20049#22639#0" expanded="false" />
-            <element signature="e#22815#22821#0" expanded="true" />
+            <element signature="e#15795#18915#0" expanded="false" />
+            <element signature="e#18948#20021#0" expanded="false" />
+            <element signature="e#20056#22646#0" expanded="false" />
+            <element signature="e#22822#22828#0" expanded="true" />
           </folding>
         </state>
       </provider>
