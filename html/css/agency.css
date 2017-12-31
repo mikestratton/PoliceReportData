@@ -5,7 +5,6 @@
  */
 body {
   overflow-x: hidden;
-  overflow-y: hidden; /* added for landing page without navigation */
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .text-muted {
@@ -231,21 +230,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  /*background-image: url('../img/indiana-snow-crash.jpg');*/
-  /*background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;*/
-  text-align: center;
-  color: black;
-}
-
-header::after {
-  content: "";
-  background: url('../img/indiana-snow-crash.jpg');
+  background-image: url('../img/indiana-snow-crash2.png');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -253,15 +238,9 @@ header::after {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  opacity: 0.5;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  position: absolute;
-  z-index: -1;
+  text-align: center;
+  color: navy;
 }
-
 header .intro-text {
   padding-top: 100px;
   padding-bottom: 50px;
