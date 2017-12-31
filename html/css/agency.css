@@ -151,7 +151,7 @@ fieldset[disabled] .btn-xl.active {
   border-color: transparent;
 }
 .navbar-custom .navbar-brand {
-  color: white;
+  color: navy;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   border-radius: 5px;
@@ -161,7 +161,6 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
   color: navy;
-  background-color: white;
 }
 .navbar-custom .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02);
@@ -183,27 +182,26 @@ fieldset[disabled] .btn-xl.active {
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 1px;
-  color: white;
+  color: navy;
 }
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: navy;
+  color: red;
   outline: none;
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color:transparent;
 }
 .navbar-custom .navbar-nav > .active > a {
-  border-radius: 0;
-  color: white;
-  background-color: navy;
+  color: red;
+  background-color:transparent;
 }
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
-  color: white;
-  background-color: navy;
+  color: red;
+  background-color:transparent;
 }
 @media (min-width: 768px) {
   .navbar-custom {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: transparent;
     padding: 25px 0;
     -webkit-transition: padding 0.3s;
     -moz-transition: padding 0.3s;
@@ -222,7 +220,7 @@ fieldset[disabled] .btn-xl.active {
 }
 @media (min-width: 768px) {
   .navbar-custom.affix {
-    background-color: navy;
+    background-color: silver;
     padding: 10px 0;
   }
   .navbar-custom.affix .navbar-brand {
