@@ -11,6 +11,7 @@ $pages  = $pdf->getPages();
 
 // Loop over each page to extract text.
 foreach ($pages as $page) {
+
     echo $page->getText(). "<br><hr><br>";
 }
 
