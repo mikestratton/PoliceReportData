@@ -6,7 +6,14 @@ include 'pdfparser/vendor/autoload.php';
 $parser = new \Smalot\PdfParser\Parser();
 $pdf    = $parser->parseFile('test.pdf');
 
-$text = $pdf->getText();
-echo $text;
+// Retrieve all pages from the pdf file.
+$pages  = $pdf->getPages();
+
+// Loop over each page to extract text.
+foreach ($pages as $page) {
+    echo $page->getText(). "<br><hr><br>";
+}
+
+
 
 ?>
